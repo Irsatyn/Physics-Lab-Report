@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.publish/
+installation-backups/
+test1/
+test2/
+test3/
+qa/
+*.log
+.DS_Store
+Thumbs.db
