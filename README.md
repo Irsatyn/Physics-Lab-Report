@@ -12,6 +12,10 @@
 
 最终交付：报告、说明文档、图片文件夹、代码文件夹。详细要求见 [SKILL.md](physics-lab-report/SKILL.md)。
 
+## 实验示例
+
+[电子偏转特性](examples/电子偏转特性/README.md)：16 页 Word 报告、核对后的测量数据、六张分析图及可复现生成代码。该示例按用户要求使用 MinerU 解析资料，数值以原图复核和用户确认的结果为准。
+
 ## 项目结构
 
 ```text
@@ -19,6 +23,7 @@ physics-lab-report/     可安装 skill（入口、模板、脚本、参考）
 tests/                 回归测试
 scripts/               项目打包工具
 docs/                  开发与验证说明
+examples/              用户授权发布的完整实验示例
 .github/workflows/     CI 检查
 requirements*.txt      运行及开发依赖
 physics-lab-report.zip 安装包

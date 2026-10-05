@@ -1,0 +1,528 @@
+{
+  "fits": {
+    "X1000": {
+      "n": 9,
+      "slope": 0.4310611928737413,
+      "intercept": -0.21553059643687064,
+      "slope_se": 0.0035586762710824392,
+      "intercept_se": 0.08526188636927162,
+      "r2": 0.9995231409759876,
+      "residual_sd_mm": 0.25572995328551945,
+      "max_residual_mm": 0.4056932610379552,
+      "through_origin_slope": 0.43087345753689815,
+      "inverse_fit_slope": 0.431266846361186,
+      "inverse_difference_pct": 0.04770865270280478,
+      "constant": 431.0611928737413,
+      "constant_se": 3.5586762710824393,
+      "slope_mm_per_A": 0.4310611928737413,
+      "fitted_points": {
+        "x1": -37.0,
+        "D1": -16.164794732765298,
+        "x2": 37.0,
+        "D2": 15.733733539891556
+      },
+      "measured_chord": 0.43243243243243246,
+      "pairs": [
+        {
+          "D_mm": 4.0,
+          "reading_center": 1.0,
+          "half_span": 9.0
+        },
+        {
+          "D_mm": 8.0,
+          "reading_center": 1.0,
+          "half_span": 19.0
+        },
+        {
+          "D_mm": 12.0,
+          "reading_center": 0.25,
+          "half_span": 27.75
+        },
+        {
+          "D_mm": 16.0,
+          "reading_center": 0.0,
+          "half_span": 37.0
+        }
+      ],
+      "Sxx": 5164.0,
+      "Sxy": 2226.0,
+      "sum_x": 4.5,
+      "sum_D": 0.0,
+      "SSE": 0.45778466305189786
+    },
+    "X900": {
+      "n": 9,
+      "slope": 0.48369211157589614,
+      "intercept": 0.00537435679528743,
+      "slope_se": 0.005083898898259615,
+      "intercept_se": 0.10851117444521292,
+      "r2": 0.9992272871638723,
+      "residual_sd_mm": 0.3255334792268008,
+      "max_residual_mm": 0.4699863093734705,
+      "through_origin_slope": 0.48369198049817924,
+      "inverse_fit_slope": 0.4840661557079468,
+      "inverse_difference_pct": 0.07733103829872245,
+      "constant": 435.3229004183065,
+      "constant_se": 4.575509008433653,
+      "slope_mm_per_A": 0.48369211157589614,
+      "fitted_points": {
+        "x1": -32.8,
+        "D1": -15.859726902894105,
+        "x2": 32.5,
+        "D2": 15.725367983011912
+      },
+      "measured_chord": 0.48,
+      "pairs": [
+        {
+          "D_mm": 4.0,
+          "reading_center": 0.0,
+          "half_span": 7.5
+        },
+        {
+          "D_mm": 8.0,
+          "reading_center": 0.09999999999999964,
+          "half_span": 17.4
+        },
+        {
+          "D_mm": 12.0,
+          "reading_center": 0.0,
+          "half_span": 25.0
+        },
+        {
+          "D_mm": 16.0,
+          "reading_center": -0.14999999999999858,
+          "half_span": 32.65
+        }
+      ],
+      "Sxx": 4100.128888888889,
+      "Sxy": 1983.1999999999998,
+      "sum_x": -0.09999999999999432,
+      "sum_D": 0.0,
+      "SSE": 0.7418043226825416
+    },
+    "X800": {
+      "n": 9,
+      "slope": 0.5716618595181541,
+      "intercept": 0.7114014251781474,
+      "slope_se": 0.0076717187285348055,
+      "intercept_se": 0.13884280238110533,
+      "r2": 0.9987409070665083,
+      "residual_sd_mm": 0.41554253970854954,
+      "max_residual_mm": 0.7114014251781474,
+      "through_origin_slope": 0.5689589665653495,
+      "inverse_fit_slope": 0.5723825423324589,
+      "inverse_difference_pct": 0.12606802470822576,
+      "constant": 457.32948761452326,
+      "constant_se": 6.137374982827844,
+      "slope_mm_per_A": 0.5716618595181541,
+      "fitted_points": {
+        "x1": -30.0,
+        "D1": -16.438454360366475,
+        "x2": 26.0,
+        "D2": 15.574609772650152
+      },
+      "measured_chord": 0.5647058823529412,
+      "pairs": [
+        {
+          "D_mm": 4.0,
+          "reading_center": -1.1,
+          "half_span": 6.4
+        },
+        {
+          "D_mm": 8.0,
+          "reading_center": -1.25,
+          "half_span": 13.75
+        },
+        {
+          "D_mm": 12.0,
+          "reading_center": -1.25,
+          "half_span": 21.25
+        },
+        {
+          "D_mm": 16.0,
+          "reading_center": -2.0,
+          "half_span": 28.0
+        }
+      ],
+      "Sxx": 2933.902222222222,
+      "Sxy": 1677.1999999999998,
+      "sum_x": -11.200000000000003,
+      "sum_D": 0.0,
+      "SSE": 1.2087292161520202
+    },
+    "Y1000": {
+      "n": 9,
+      "slope": 0.7617746779558022,
+      "intercept": -0.19467575103314982,
+      "slope_se": 0.00817519384556608,
+      "intercept_se": 0.11081233256016047,
+      "r2": 0.9991944525853609,
+      "residual_sd_mm": 0.33237790842300596,
+      "max_residual_mm": 0.4204763914917369,
+      "through_origin_slope": 0.7615038976275573,
+      "inverse_fit_slope": 0.7623888182973317,
+      "inverse_difference_pct": 0.08061968444232903,
+      "constant": 761.7746779558022,
+      "constant_se": 8.17519384556608,
+      "slope_mm_per_A": 0.7617746779558022,
+      "fitted_points": {
+        "x1": -21.3,
+        "D1": -16.420476391491736,
+        "x2": 21.3,
+        "D2": 16.03112488942544
+      },
+      "measured_chord": 0.7667731629392971,
+      "pairs": [
+        {
+          "D_mm": 4.0,
+          "reading_center": 0.25,
+          "half_span": 4.75
+        },
+        {
+          "D_mm": 8.0,
+          "reading_center": 0.25,
+          "half_span": 10.25
+        },
+        {
+          "D_mm": 12.0,
+          "reading_center": 0.6500000000000004,
+          "half_span": 15.65
+        },
+        {
+          "D_mm": 16.0,
+          "reading_center": 0.0,
+          "half_span": 21.3
+        }
+      ],
+      "Sxx": 1652.9822222222224,
+      "Sxy": 1259.1999999999998,
+      "sum_x": 2.3000000000000043,
+      "sum_D": 0.0,
+      "SSE": 0.7733255180535651
+    },
+    "Y900": {
+      "n": 9,
+      "slope": 0.8499713051620504,
+      "intercept": -0.02833237683873508,
+      "slope_se": 0.018788302925455712,
+      "intercept_se": 0.22790709676501467,
+      "r2": 0.996591355302504,
+      "residual_sd_mm": 0.6837187088265552,
+      "max_residual_mm": 1.0971697828253824,
+      "through_origin_slope": 0.8499648868450264,
+      "inverse_fit_slope": 0.8528784648187632,
+      "inverse_difference_pct": 0.34203032961901414,
+      "constant": 764.9741746458454,
+      "constant_se": 16.90947263291014,
+      "slope_mm_per_A": 0.8499713051620504,
+      "fitted_points": {
+        "x1": -17.5,
+        "D1": -14.902830217174618,
+        "x2": 18.0,
+        "D2": 15.271151116078173
+      },
+      "measured_chord": 0.8053691275167785,
+      "pairs": [
+        {
+          "D_mm": 4.0,
+          "reading_center": 0.0,
+          "half_span": 5.0
+        },
+        {
+          "D_mm": 8.0,
+          "reading_center": 0.0,
+          "half_span": 10.0
+        },
+        {
+          "D_mm": 12.0,
+          "reading_center": -0.09999999999999964,
+          "half_span": 14.9
+        },
+        {
+          "D_mm": 16.0,
+          "reading_center": 0.25,
+          "half_span": 17.75
+        }
+      ],
+      "Sxx": 1324.28,
+      "Sxy": 1125.6000000000001,
+      "sum_x": 0.3000000000000007,
+      "sum_D": 0.0,
+      "SSE": 3.272298909596162
+    },
+    "Y800": {
+      "n": 9,
+      "slope": 0.9332273962879013,
+      "intercept": 0.13479951279714136,
+      "slope_se": 0.005904674395106585,
+      "intercept_se": 0.0653429883371205,
+      "r2": 0.9997198482734144,
+      "residual_sd_mm": 0.1960122654770803,
+      "max_residual_mm": 0.3343227960926974,
+      "through_origin_slope": 0.9330684014262772,
+      "inverse_fit_slope": 0.9334889148191364,
+      "inverse_difference_pct": 0.02802302335693785,
+      "constant": 746.581917030321,
+      "constant_se": 4.723739516085268,
+      "slope_mm_per_A": 0.9332273962879013,
+      "fitted_points": {
+        "x1": -17.5,
+        "D1": -16.19667992224113,
+        "x2": 17.0,
+        "D2": 15.999665249691462
+      },
+      "measured_chord": 0.9486166007905138,
+      "pairs": [
+        {
+          "D_mm": 4.0,
+          "reading_center": 0.0,
+          "half_span": 4.5
+        },
+        {
+          "D_mm": 8.0,
+          "reading_center": -0.25,
+          "half_span": 8.55
+        },
+        {
+          "D_mm": 12.0,
+          "reading_center": -0.15000000000000036,
+          "half_span": 12.65
+        },
+        {
+          "D_mm": 16.0,
+          "reading_center": -0.25,
+          "half_span": 17.25
+        }
+      ],
+      "Sxx": 1101.9822222222224,
+      "Sxy": 1028.4,
+      "sum_x": -1.3000000000000007,
+      "sum_D": 0.0,
+      "SSE": 0.2689456575222019
+    },
+    "M1000": {
+      "n": 7,
+      "slope": 0.07407488337029794,
+      "intercept": 0.18518720842574485,
+      "slope_se": 0.0019679004471440135,
+      "intercept_se": 0.1591937286073748,
+      "r2": 0.9964835501004365,
+      "residual_sd_mm": 0.42098583698029285,
+      "max_residual_mm": 0.5185569600891522,
+      "through_origin_slope": 0.07400413680941752,
+      "inverse_fit_slope": 0.0743362831858407,
+      "inverse_difference_pct": 0.352885895528221,
+      "constant": 2.3424534886147135,
+      "constant_se": 0.062230476214388784,
+      "slope_mm_per_A": 74.07488337029794,
+      "fitted_points": {
+        "x1": -119.0,
+        "D1": -8.62972391263971,
+        "x2": 115.0,
+        "D2": 8.703798796010009
+      },
+      "measured_chord": 0.07692307692307693,
+      "pairs": [
+        {
+          "D_mm": 3.0,
+          "reading_center": -2.5,
+          "half_span": 47.5
+        },
+        {
+          "D_mm": 6.0,
+          "reading_center": -4.25,
+          "half_span": 83.25
+        },
+        {
+          "D_mm": 9.0,
+          "reading_center": -2.0,
+          "half_span": 117.0
+        }
+      ],
+      "Sxx": 45764.5,
+      "Sxy": 3390.0,
+      "sum_x": -17.5,
+      "sum_D": 0.0,
+      "SSE": 0.8861453746899884
+    },
+    "M900": {
+      "n": 7,
+      "slope": 0.08469068630343528,
+      "intercept": -0.09074002103939494,
+      "slope_se": 0.0011057061485327672,
+      "intercept_se": 0.07831050680269601,
+      "r2": 0.9991484538893377,
+      "residual_sd_mm": 0.2071664161426307,
+      "max_residual_mm": 0.2968874310980163,
+      "through_origin_slope": 0.08467130417446903,
+      "inverse_fit_slope": 0.08476286579212916,
+      "inverse_difference_pct": 0.08522718594494716,
+      "constant": 2.540720589103058,
+      "constant_se": 0.033171184455983015,
+      "slope_mm_per_A": 84.69068630343527,
+      "fitted_points": {
+        "x1": -105.0,
+        "D1": -8.983262082900099,
+        "x2": 104.0,
+        "D2": 8.717091354517875
+      },
+      "measured_chord": 0.0861244019138756,
+      "pairs": [
+        {
+          "D_mm": 3.0,
+          "reading_center": 2.5,
+          "half_span": 37.5
+        },
+        {
+          "D_mm": 6.0,
+          "reading_center": 1.75,
+          "half_span": 72.25
+        },
+        {
+          "D_mm": 9.0,
+          "reading_center": -0.5,
+          "half_span": 104.5
+        }
+      ],
+      "Sxx": 35104.21428571429,
+      "Sxy": 2973.0,
+      "sum_x": 7.5,
+      "sum_D": 0.0,
+      "SSE": 0.21458961988690822
+    },
+    "M800": {
+      "n": 7,
+      "slope": 0.09599573212828719,
+      "intercept": -0.15085043620159413,
+      "slope_se": 0.0014801250699235694,
+      "intercept_se": 0.09248624681874502,
+      "r2": 0.9988127366681311,
+      "residual_sd_mm": 0.24461821666873254,
+      "max_residual_mm": 0.4147053285633584,
+      "through_origin_slope": 0.09593501884307197,
+      "inverse_fit_slope": 0.09610983981693363,
+      "inverse_difference_pct": 0.11886746016369631,
+      "constant": 2.715169326115168,
+      "constant_se": 0.04186425895788675,
+      "slope_mm_per_A": 95.99573212828719,
+      "fitted_points": {
+        "x1": -90.0,
+        "D1": -8.79046632774744,
+        "x2": 95.0,
+        "D2": 8.968744115985688
+      },
+      "measured_chord": 0.0972972972972973,
+      "pairs": [
+        {
+          "D_mm": 3.0,
+          "reading_center": 0.5,
+          "half_span": 34.5
+        },
+        {
+          "D_mm": 6.0,
+          "reading_center": 2.5,
+          "half_span": 62.5
+        },
+        {
+          "D_mm": 9.0,
+          "reading_center": 2.5,
+          "half_span": 92.5
+        }
+      ],
+      "Sxx": 27313.71428571429,
+      "Sxy": 2622.0,
+      "sum_x": 11.0,
+      "sum_D": 0.0,
+      "SSE": 0.2991903596309549
+    }
+  },
+  "comparisons": {
+    "X": {
+      "mean_constant": 441.2378603021903,
+      "range_pct": 5.953318403545795,
+      "ratio_800_1000": 1.326173334479671,
+      "theory_ratio": 1.25,
+      "ratio_deviation_pct": 6.093866758373667,
+      "origin_change_max_pct": 0.47281323877069736
+    },
+    "Y": {
+      "mean_constant": 757.7769232106563,
+      "range_pct": 2.427133507523226,
+      "ratio_800_1000": 1.2250701201990422,
+      "theory_ratio": 1.25,
+      "ratio_deviation_pct": -1.9943903840766275,
+      "origin_change_max_pct": 0.03554598703274792
+    },
+    "M": {
+      "mean_constant": 2.53278113461098,
+      "range_pct": 14.715674892205069,
+      "ratio_800_1000": 1.2959282250693211,
+      "theory_ratio": 1.118033988749895,
+      "ratio_deviation_pct": 15.911344208625966,
+      "origin_change_max_pct": 0.09550681372897385
+    }
+  },
+  "method": "OLS D=s*x+b; inverse OLS checked separately",
+  "missing_points": [
+    {
+      "group": "M",
+      "U2_V": "1000",
+      "D_mm": "-12",
+      "reading": "",
+      "unit": "mA",
+      "status": "unmeasured"
+    },
+    {
+      "group": "M",
+      "U2_V": "1000",
+      "D_mm": "12",
+      "reading": "",
+      "unit": "mA",
+      "status": "unmeasured"
+    },
+    {
+      "group": "M",
+      "U2_V": "900",
+      "D_mm": "-12",
+      "reading": "",
+      "unit": "mA",
+      "status": "unmeasured"
+    },
+    {
+      "group": "M",
+      "U2_V": "900",
+      "D_mm": "12",
+      "reading": "",
+      "unit": "mA",
+      "status": "unmeasured"
+    },
+    {
+      "group": "M",
+      "U2_V": "800",
+      "D_mm": "-12",
+      "reading": "",
+      "unit": "mA",
+      "status": "unmeasured"
+    },
+    {
+      "group": "M",
+      "U2_V": "800",
+      "D_mm": "12",
+      "reading": "",
+      "unit": "mA",
+      "status": "unmeasured"
+    }
+  ],
+  "n_observed": 75,
+  "earth_example": {
+    "U2_V": 1000,
+    "B_T": 5e-05,
+    "path_m": 0.1,
+    "speed_m_s": 18755294.393978875,
+    "speed_1e7_m_s": 1.8755294393978874,
+    "radius_m": 2.132731118997601,
+    "D_mm": 2.3439823136403435,
+    "angle_rad": 0.046888235984947194,
+    "a_m_s2": 164934559575491.97
+  }
+}
