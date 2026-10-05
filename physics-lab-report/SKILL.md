@@ -1,6 +1,6 @@
 ---
 name: physics-lab-report
-description: "Use when a user requests a Chinese physics laboratory report in Word from experiment instructions, measurement files or photos, with editable calculations, original data photographs and reproducible MATLAB or Python plots."
+description: "Use when a user requests a Chinese physics laboratory report in Word from uploaded materials or online research about a named experiment, with editable calculations and reproducible plots."
 ---
 
 # 物理实验报告
@@ -9,7 +9,7 @@ description: "Use when a user requests a Chinese physics laboratory report in Wo
 
 ## 工作流程
 
-1. 清点讲义、原始数据及照片、单位、仪器精度和题目；仅追问影响结论的缺项。个人信息仅班级、姓名、学号、座位号，居中、无下划线并留空。
+1. 清点讲义、原始数据及照片、单位、仪器精度和题目；未上传资料时，按已知实验名称主动联网查找高校/实验室讲义、仪器官方资料等可靠来源，实际打开并核对后编写，不停在索要附件。实验名称无法确定时只追问名称。检索来源及使用说明仅写说明文档，正文不提联网检索。详见 [资料读取](references/input-and-analysis.md#无上传资料时联网检索)。仅追问影响结论的缺项。个人信息仅班级、姓名、学号、座位号，居中、无下划线并留空。
 2. **所有识图由当前模型自身完成**：逐一实际查看全部资料图表、原始照片、生成图和最终报告页面，不抽样。PDF/Word 本地渲染；已有文本层及 CSV/TXT/XLSX 数值可本地读取辅助计算。不用外部 OCR、识图模型或上传解析服务。看不清的关键数字请求确认，不猜填；不执行附件任意代码。
 3. 选择真实物理模型，核验单位、代入值、有效数字及适用的不确定度。先列绘图清单，优先 MATLAB 执行，失败后 Python。尽量完整生成有分析价值的互补图，资料充分通常争取 3–6 图/子图；不重复凑数，不编造数据，少画时说明依据。计算结果保存 JSON，正文/表格引用同一结果。
 4. 按下面结构和格式组装 DOCX，公式必须为原生可编辑 OMML。完整报告 **10–20 页**，适当展开有依据的原理、计算、图表解释和题目回答；不用重复文字、空页或改变字号凑页。
